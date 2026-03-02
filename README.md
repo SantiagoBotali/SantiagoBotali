@@ -1,19 +1,3 @@
-<!-- <div align="center">
-    <img
-        src="https://capsule-render.vercel.app/api?type=waving&color=00c8ff&height=250&section=header&text=Santiago%20Botali&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20|%20Machine%20Learning%20|%20Data%20Science&descAlignY=55&descAlign=62&fontColor=ffffff" />
-</div>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/santiago-botali/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="LinkedIn" />
-    </a>
-    <a href="mailto:santiagobotali@gmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-            alt="Email" />
-    </a>
-</p> -->
-
 <div align="center">
 <h1> Santiago Botali</h1>
 <h3> Systems Engineering | Data Scientist | Machine Learning | Python | Prompt Engineering </h3>
@@ -31,40 +15,15 @@
 </p>
 
 <div align="center">
-    <h3>en Welcome! / 🇪🇸 ¡Bienvenido!</h3>
+    <h3> Welcome! | ¡Bienvenido!</h3>
 </div>
 
-<details>
-    <summary>
-        <h2>en English Version</h2>
-    </summary>
-    
-    👨‍💻 About Me
-    Systems Engineer specialized in Machine Learning and Artificial Intelligence systems, with experience in financial
-    risk evaluation, e-commerce analytics, and predictive modeling. Focused on the development and deployment of AI
-    solutions based on both machine learning models and LLM/agent-driven systems. Practical experience designing RAG
-    (Retrieval-Augmented Generation) architectures, orchestrating logic flows using tools like LangChain and Claude
-    Code, and integrating AI models into production environments. Solid foundation in data processing, feature
-    engineering, and designing scalable AI systems.
+## 👨‍💻 About Me (EN)
 
-</details>
+Systems Engineer specialized in Machine Learning and Artificial Intelligence systems, with experience in financial risk evaluation, e-commerce analytics, and predictive modeling. Focused on the development and deployment of AI solutions based on both machine learning models and LLM/agent-driven systems. Practical experience designing RAG (Retrieval-Augmented Generation) architectures, orchestrating logic flows using tools like LangChain and Claude Code, and integrating AI models into production environments. Solid foundation in data processing, feature engineering, and designing scalable AI systems.
 
-<details>
-    <summary>
-        <h2>🇪🇸 Versión en Español</h2>
-    </summary>
-
-    👨‍💻 Sobre Mí
-    Ingeniero en Sistemas especializado en Machine Learning y sistemas de Inteligencia Artificial, con experiencia en
-    evaluación de riesgo financiero, analítica de e-commerce y modelado predictivo. Enfocado en el desarrollo y
-    despliegue de soluciones de inteligencia artificial basadas tanto en modelos de aprendizaje automático como en
-    sistemas impulsados por LLMs y agentes inteligentes. Experiencia práctica en el diseño de arquitecturas RAG,
-    orquestación de flujos con modelos de lenguaje utilizando LangChain y Claude Code, e integración de modelos de IA en
-    entornos productivos.
-
-</details>
-
-<br>
+## 👨‍💻 Sobre mí (ES)
+Ingeniero en Sistemas especializado en Machine Learning y sistemas de Inteligencia Artificial, con experiencia en evaluación de riesgo financiero, analítica de e-commerce y modelado predictivo. Enfocado en el desarrollo y despliegue de soluciones de inteligencia artificial basadas tanto en modelos de aprendizaje automático como en sistemas impulsados por LLMs y agentes inteligentes. Experiencia práctica en el diseño de arquitecturas RAG, orquestación de flujos con modelos de lenguaje utilizando LangChain y Claude Code, e integración de modelos de IA en entornos productivos.
 
 ---
 
@@ -88,12 +47,4 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SantiagoBotali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
-        alt="GitHub Stats" />
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantiagoBotali&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"
-        alt="Top Languages" />
-</p>
